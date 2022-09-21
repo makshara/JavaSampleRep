@@ -1,1 +1,1 @@
-# JavaSampleRep
+# JavaSampleRepository
